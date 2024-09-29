@@ -22,3 +22,4 @@ if "edad" in informacion_personal:
 
 # Imprimiendo el diccionario resultante
 print(informacion_personal)
+# Tarea de la semana 15
