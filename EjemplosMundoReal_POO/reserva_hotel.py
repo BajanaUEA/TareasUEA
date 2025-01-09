@@ -76,7 +76,7 @@ if __name__ == "__main__":
     # Reservar una habitación
     habitacion1.reservar()
 
-    # Intentar reservarla de nuevo
+    # Intentar reservarla nuevamente
     habitacion1.reservar()
 
     # Cancelar la reserva
