@@ -14,7 +14,7 @@ def mostrar_codigo(ruta_script):
         print("El archivo no se encontró.")
         return None
     except Exception as e:
-        print(f"Ocurrió un error al leer el archivo: {e}")
+        print(f"Ocurrio un error al leer el archivo: {e}")
         return None
 
 def ejecutar_codigo(ruta_script):
