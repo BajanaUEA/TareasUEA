@@ -12,7 +12,7 @@ class Archivo:
 
     def leer(self):
         """
-        Método para leer el contenido del archivo.
+        Metodo para leer el contenido del archivo.
         """
         print(f"Leyendo el archivo '{self.nombre_archivo}':")
         print(self.archivo.read())  # Lee y muestra el contenido del archivo
